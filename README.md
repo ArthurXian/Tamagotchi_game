@@ -135,6 +135,7 @@ impatience d'autres opportunités pour améliorer et étendre ce jeu
 ## Autheurs
 
 - [@ArthurXian](https://www.github.com/ArthurXian)
+- [@felixyangyicheng](https://www.github.com/felixyangyicheng)
 
 
 ## Badges
